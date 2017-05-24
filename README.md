@@ -1,4 +1,4 @@
-# edge detection by Ant Colony
+# Edge detection by Ant Colony
 
 A modified ant colony based approach to digital image edge detection
 
