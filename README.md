@@ -11,6 +11,6 @@ directly proportional to the computation time. An increase in the computation ti
  Knowledge-Based Engineering and Innovation (KBEI), 2015 2nd International Conference on 5-6 Nov. 2015 
  DOi: 10.1109/KBEI.2015.7436096
  
- base on the J-Tian Method.(Tian, J., Yu, W., Xie, S.: An ant colony optimization algorithm for image
+ based on the J-Tian Method.(Tian, J., Yu, W., Xie, S.: An ant colony optimization algorithm for image
 edge detection. In: Proc. IEEE Congress on Evolutionary Computation,
 Hongkong, China,pp. 751–756 (June 2008))
