@@ -48,10 +48,10 @@ parfor nMethod = 1:4;
                         temp00 = lambda .* temp00.^2;       
 
                     case 3%'S'
-                        temp00 = sin(pi .* temp00./2./lambda);
+                        temp00 = sin(pi .* temp00./2./lambda)+lambda .* temp00.^2;
 
                     case 4%'W'
-                        temp00 = sin(pi.*temp00./lambda).*pi.*temp00./lambda;
+                        temp00 = sin(pi.*temp00./lambda).*pi.*temp00./lambda+lambda .* temp00;
                 end
 
                 v(rr, cc) = sum(sum(temp00.^2));
