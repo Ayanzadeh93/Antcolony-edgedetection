@@ -7,10 +7,11 @@ The performance of proposed method is compared with traditional ant colony metho
 Based on dimensions of the input image, there is a significant increase in the elapse time of the algorithm. The dimensional is
 directly proportional to the computation time. An increase in the computation time was witnessed when the dimensions of the images were 512 × 512 and higher. For images that has high dimensions, the algorithm took much Longer time and some extra load on the processor was noted. The computational time for the image Cameraman of 128 × 128 dimension was 32.5879s  with our systems.
 
+If you use the method in your project, please cite the following paper: 
 
-Ayanzadeh, A., Pourghaemi, H. and Seyfari, Y., 2015, November. A modified ant colony based approach to digital image edge detection. In Knowledge-Based Engineering and Innovation (KBEI), 2015 2nd International Conference on (pp. 504-509). IEEE.
-DOi: 10.1109/KBEI.2015.7436096
+
+### Ayanzadeh, A., Pourghaemi, H. and Seyfari, Y., 2015, November. A modified ant colony based approach to digital image edge detection. In Knowledge-Based Engineering and Innovation (KBEI), 2015 2nd International Conference on (pp. 504-509). IEEE. DOi: 10.1109/KBEI.2015.7436096
  
-based on the J-Tian Method.(Tian, J., Yu, W., Xie, S.: An ant colony optimization algorithm for image
+inspired  from the J-Tian Method.(Tian, J., Yu, W., Xie, S.: An ant colony optimization algorithm for image
 edge detection. In: Proc. IEEE Congress on Evolutionary Computation,
 Hongkong, China,pp. 751–756 (June 2008))
