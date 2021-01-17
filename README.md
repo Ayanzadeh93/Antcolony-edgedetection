@@ -1,4 +1,17 @@
-# Edge detection by Ant Colony
+## A modified ant colony based approach to digital image edge detection
+
+**Aydin Ayanzadeh<sup>1</sup>, Pourghaemi, H<sup>1</sup>, Seyfari, Y<sup>1</sup>**
+
+<sup><sup>1</sup>Computer Science Department, University of Tabriz, Tabriz, Iran</sup>
+
+### In Knowledge-Based Engineering and Innovation (KBEI), 2015 2nd International Conference on (pp. 504-509). IEEE. DOi: 10.1109/KBEI.2015.7436096
+
+
+
+##### inspired  from the J-Tian Method.(Tian, J., Yu, W., Xie, S.: An ant colony optimization algorithm for image edge detection. In: Proc. IEEE Congress on Evolutionary Computation, Hongkong, China,pp. 751–756 (June 2008))
+
+
+
 
 A modified ant colony based approach to digital image edge detection
 
@@ -10,8 +23,3 @@ directly proportional to the computation time. An increase in the computation ti
 If you use the method in your project, please cite the following paper: 
 
 
-### Ayanzadeh, A., Pourghaemi, H. and Seyfari, Y., 2015, November. A modified ant colony based approach to digital image edge detection. In Knowledge-Based Engineering and Innovation (KBEI), 2015 2nd International Conference on (pp. 504-509). IEEE. DOi: 10.1109/KBEI.2015.7436096
- 
-inspired  from the J-Tian Method.(Tian, J., Yu, W., Xie, S.: An ant colony optimization algorithm for image
-edge detection. In: Proc. IEEE Congress on Evolutionary Computation,
-Hongkong, China,pp. 751–756 (June 2008))
